@@ -1,1 +1,3 @@
 # ValorantPlus
+
+After noticing I play better at morning than at night, I started thinking if its possible to create an application that records the date and time, the length of warming up and the result afterward to tells the player how they play depending on these factors, I am also thinking for it to explain enemy utility the player dies from and tells them how to avoid it. It will also offer aim trainer when the enemy dies and shows tactics that the player can do with their current agent. It might also offer services outside of the game, like automatically playing a player playlist when they get in a game. I may add or remove some of these. The product is not final this is just a skeleton of what I want to do.
